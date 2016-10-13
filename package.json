@@ -1,7 +1,7 @@
 {
-  "name": "jsencrypt",
+  "name": "jsencrypt-without-random-padding",
   "version": "2.3.1",
-  "description": "A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
+  "description": "A modified Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
   "main": "bin/jsencrypt.js",
   "scripts": {
     "prepublish": "node_modules/gulp/bin/gulp.js"
@@ -19,15 +19,19 @@
     {
       "name": "Julio",
       "url": "https://github.com/jmgaya"
+    },
+    {
+      "name": "Nikita Mashukov",
+      "url": "https://github.com/ferdibiflator"
     }
   ],
   "homepage": "http://www.travistidwell.com/jsencrypt",
   "repository": {
     "type": "git",
-    "url": "git://github.com/travist/jsencrypt.git"
+    "url": "git://github.com/ferdibiflator/jsencrypt-without-random-padding.git"
   },
   "bugs": {
-    "url": "http://github.com/travist/jsencrypt/issues"
+    "url": "http://github.com/ferdibiflator/jsencrypt-without-random-padding/issues"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
