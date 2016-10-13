@@ -1,3 +1,7 @@
+This is modified version of original jsencrypt library
+======================================================
+Difference: During RSA encryption of message it is not padding the message by random bytes
+
 Website
 ======================
 http://travistidwell.com/jsencrypt
