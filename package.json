@@ -28,7 +28,7 @@
   "homepage": "http://www.travistidwell.com/jsencrypt",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pawan-blotout/jsencrypt-without-random-padding.git"
+    "url": "https://github.com/pawan-blotout/jsencrypt-without-random-padding.git"
   },
   "bugs": {
     "url": "http://github.com/pawan-blotout/jsencrypt-without-random-padding/issues"
